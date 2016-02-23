@@ -1,5 +1,5 @@
 #ifndef MY_USING_H
-#define MY_USING-H
+#define MY_USING_H
 #include<iostream>
 #include<string>
 #include<vector>
