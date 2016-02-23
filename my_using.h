@@ -3,11 +3,12 @@
 #include<iostream>
 #include<string>
 #include<vector>
-using std::cout;
-using std::cin;
-using std::endl;
-using std::string;
-using std::vector;
-using std::begin;
-using std::end;
+//using std::cout;
+//using std::cin;
+//using std::endl;
+//using std::string;
+//using std::vector;
+//using std::begin;
+//using std::end;
+using namespace std;
 #endif
