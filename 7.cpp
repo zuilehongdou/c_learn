@@ -1,4 +1,5 @@
-#include "my_using.h"
+#include <iostream>
+using namespace std;
 int main()
 {
     for(string str;getline(cin,str);cout<<str<<endl);
