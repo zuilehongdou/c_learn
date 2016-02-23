@@ -14,7 +14,15 @@ int main()
     {
         for(auto col:row)
         {
-            cout<<col<<" ";
+            cout<<col<<"  ";
+        }
+        cout<<endl;
+    }
+    for(auto i=begin(arr);i!=end(arr);i++)
+    {
+        for(auto j=begin(*i);j!=end(*i);j++)
+        {
+            cout<<*j<<"  ";
         }
         cout<<endl;
     }
