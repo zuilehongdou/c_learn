@@ -12,7 +12,7 @@ int main()
     }
     for(auto &row:arr)
     {
-        for(auto &col:row)
+        for(auto col:row)
         {
             cout<<col<<" ";
         }
