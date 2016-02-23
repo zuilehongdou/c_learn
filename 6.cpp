@@ -22,7 +22,7 @@ int main()
     //使用指针完成遍历
     for(auto p=arr;p!=arr+3;p++)
     {
-        for(int *q=*p;q!=*p+4;++q)
+        for(auto q=*p;q!=*p+4;++q)
         {
             cout<<*q<<"  ";
         }
