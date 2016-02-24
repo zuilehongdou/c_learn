@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     string total;
-    for(string str;cin>>str;total+=str+' ');
-    cout<<"The final string is: "<<total<<endl;
+    for(string str; cin >> str; total += str + ' ');
+    cout << "The final string is: " << total << endl;
     return 0;
 }
